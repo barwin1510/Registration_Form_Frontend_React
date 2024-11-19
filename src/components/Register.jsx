@@ -28,7 +28,7 @@ const Register = () => {
     console.log("Form submitted:", formData);
     try {
       await axios.post(
-        "https://registration-50023441913.development.catalystappsail.in/api/register",
+        "https://registration-backend-50023441913.development.catalystappsail.in/api/register",
         formData
       );
       navigate("/success");
