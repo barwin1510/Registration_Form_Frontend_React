@@ -1,6 +1,5 @@
 {
   "name": "registrationform",
-  "proxy": "https://registration-backend-50023441913.development.catalystappsail.in/register",
   "private": true,
   "version": "0.0.0",
   "type": "module",
